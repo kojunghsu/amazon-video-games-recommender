@@ -41,7 +41,6 @@ amazon-video-games-recommender/
 ├── amazon_video_games_recommender.ipynb   # Main notebook, run top to bottom
 ├── requirements.txt                       # Python dependencies
 ├── .gitignore                             # Excludes local data, cache, and notebook artifacts
-├── LICENSE                                # MIT License
 └── README.md
 ```
 
