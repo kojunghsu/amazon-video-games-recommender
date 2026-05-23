@@ -247,12 +247,6 @@ Then run all cells from top to bottom. On CPU, training time depends on hardware
 
 ---
 
-## License
-
-This project is released under the MIT License. See `LICENSE` for details.
-
----
-
 ## Acknowledgements
 
 Dataset: Hou et al. (2024), *Bridging Language and Items for Retrieval and Recommendation*, McAuley Lab, UC San Diego.
