@@ -40,7 +40,6 @@ Each record contains four core fields: `user_id`, `parent_asin` (renamed to `ite
 amazon-video-games-recommender/
 ├── amazon_video_games_recommender.ipynb   # Main notebook, run top to bottom
 ├── requirements.txt                       # Python dependencies
-├── .gitignore                             # Excludes local data, cache, and notebook artifacts
 └── README.md
 ```
 
