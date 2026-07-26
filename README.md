@@ -1,5 +1,9 @@
 # Amazon Video Games Recommendation System
 
+> [!NOTE]
+> **Archived predecessor.** This repository focuses on rating prediction with MF and NCF. The production-minded Top-K continuation—with BPR, metadata cold start, leakage-safe evaluation, API, tests, CI, and a public demo—is available at [amazon-video-games-hybrid-recommender](https://github.com/kojunghsu/amazon-video-games-hybrid-recommender).
+
+
 A personalized recommendation system built on the [Amazon Reviews 2023 — Video Games](https://amazon-reviews-2023.github.io/data_processing/5core.html) dataset. The project implements and compares **Matrix Factorization (MF)** and **Neural Collaborative Filtering (NCF)** in PyTorch, using a time-aware evaluation setup and user-segment performance analysis.
 
 ---
